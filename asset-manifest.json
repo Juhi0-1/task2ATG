@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/task2ATG/static/css/main.4d772b8c.css",
+    "main.js": "/task2ATG/static/js/main.c0bbb811.js",
+    "static/js/787.1664f5b6.chunk.js": "/task2ATG/static/js/787.1664f5b6.chunk.js",
+    "static/media/music.png": "/task2ATG/static/media/music.987fddb6f374ca050623.png",
+    "static/media/pizza.png": "/task2ATG/static/media/pizza.2676b0b144c8e838e614.png",
+    "static/media/eastasia.png": "/task2ATG/static/media/eastasia.d8b7fd238ceee55bf8fd.png",
+    "static/media/karvan.png": "/task2ATG/static/media/karvan.c3ba3fb6726b74b3eb31.png",
+    "static/media/remix.png": "/task2ATG/static/media/remix.7d451791badf77ca9975.png",
+    "static/media/textiles.png": "/task2ATG/static/media/textiles.264d0571996d56ca9ccb.png",
+    "static/media/blockchain.png": "/task2ATG/static/media/blockchain.b5700a7be4ae2e839be3.png",
+    "static/media/fifthtext.png": "/task2ATG/static/media/fifthtext.5215dff016d71dd50ae2.png",
+    "static/media/sixthfirst.png": "/task2ATG/static/media/sixthfirst.1f36bb9276853f5ee4c0.png",
+    "static/media/firstpsecphone.png": "/task2ATG/static/media/firstpsecphone.a2b88dd7c69ed26bad68.png",
+    "static/media/secondNasa.png": "/task2ATG/static/media/secondNasa.a097d14f0d97e72c07ca.png",
+    "static/media/thirdsecond.png": "/task2ATG/static/media/thirdsecond.7ab108bdf702e52d05db.png",
+    "static/media/thirdfirst.png": "/task2ATG/static/media/thirdfirst.31742997809b4a71f0f2.png",
+    "static/media/sixthsecond.png": "/task2ATG/static/media/sixthsecond.d4ad151be6f1b1001134.png",
+    "static/media/fourthpizza.png": "/task2ATG/static/media/fourthpizza.0db5502e10ffc9f95c73.png",
+    "static/media/firstpphone.png": "/task2ATG/static/media/firstpphone.e1fbdcb093d148d0c4d0.png",
+    "static/media/sevenththird.png": "/task2ATG/static/media/sevenththird.351cc80cf46ea399661f.png",
+    "static/media/seventhfirst.png": "/task2ATG/static/media/seventhfirst.fb313ef81a6f97dc713b.png",
+    "static/media/fourthdough.png": "/task2ATG/static/media/fourthdough.b9e4ec54131668b81f2f.png",
+    "static/media/seconddown.png": "/task2ATG/static/media/seconddown.e9e087f3640c36e03f58.png",
+    "static/media/seventhsecond.png": "/task2ATG/static/media/seventhsecond.e2b53c772192457b11d0.png",
+    "static/media/fourthbread.png": "/task2ATG/static/media/fourthbread.5845a18d030ff5a46660.png",
+    "index.html": "/task2ATG/index.html",
+    "main.4d772b8c.css.map": "/task2ATG/static/css/main.4d772b8c.css.map",
+    "main.c0bbb811.js.map": "/task2ATG/static/js/main.c0bbb811.js.map",
+    "787.1664f5b6.chunk.js.map": "/task2ATG/static/js/787.1664f5b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d772b8c.css",
+    "static/js/main.c0bbb811.js"
+  ]
+}
